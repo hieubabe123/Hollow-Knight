@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Tilemap not include collider
+  - Tilemap not include collider 2
+  - Enemy
+  - Dead Zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Wall
+  - Tilemap not include collider
+  - Tilemap not include collider 2
+  - Player
+  - Enemy
+  - Coin
+  - Dead Zone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 231866099
+    locked: 0
+  - name: Tile map
+    uniqueID: 3205488225
+    locked: 0
+  - name: Ground outside Wall
+    uniqueID: 3505330889
+    locked: 0
+  - name: Wall
+    uniqueID: 806019345
+    locked: 0
+  - name: Player
+    uniqueID: 636383111
+    locked: 0
+  - name: Enemy
+    uniqueID: 3127514305
+    locked: 0
+  - name: Tilemap not include collider
+    uniqueID: 3635819233
+    locked: 0
+  - name: Coin
+    uniqueID: 1086974997
+    locked: 0
+  - name: Blade Splash
+    uniqueID: 3776300801
+    locked: 0
